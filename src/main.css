@@ -1,0 +1,24 @@
+:root {
+    --main-violet: #8758FF;
+    --main-blue: #5CB8E4;
+    --main-black: #000000;
+    --secondary-black: #181818;
+    --main-white:#F2F2F2;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: var(--main-violet);
+    color: var(--main-black);
+    display: flex;
+}
+main {
+    background-color: var(--main-black);
+    color: var(--main-white);
+}
+footer {
+    background-color: var(--main-violet);
+    color: var(--main-black);
+}
