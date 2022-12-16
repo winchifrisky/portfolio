@@ -18,6 +18,46 @@ main {
     background-color: var(--main-black);
     color: var(--main-white);
 }
+.main--home {
+    grid-template: 
+        "title title image image"
+        "subtitle subtitle image image"
+        "p p image image"
+        "a a image image";
+}
+.main--home-container-cta {
+    
+}
+.main--home-container-cta h1 {
+    
+}
+.main--home-container-cta h2 {
+    
+}
+.main--home-container-cta p {
+    
+}
+.main--home-container-cta a {
+    
+}
+.main--home-container-img {
+
+}
+.main--home-container-img img {
+    
+}
+.main--about-me {
+
+}
+.main--projects {
+
+}
+.main-certificates {
+
+}
+.main-curiosities {
+    
+}
 footer {
     background-color: var(--main-violet);
     color: var(--main-black);
